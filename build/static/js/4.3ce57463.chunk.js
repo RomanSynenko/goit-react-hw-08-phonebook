@@ -1,0 +1,2 @@
+(this.webpackJsonplesson1=this.webpackJsonplesson1||[]).push([[4],{122:function(e,s,n){"use strict";n.r(s);n(0);var c=n(1);s.default=function(){return Object(c.jsx)(c.Fragment,{children:Object(c.jsx)("div",{className:"home-page-container",children:Object(c.jsxs)("h1",{children:["This is your phone book"," ",Object(c.jsx)("span",{role:"img","aria-label":"\u0418\u043a\u043e\u043d\u043a\u0430 \u043f\u0440\u0438\u0432\u0435\u0442\u0441\u0442\u0432\u0438\u044f",children:"\ud83d\udc81\u200d\u2640\ufe0f"})]})})})}}}]);
+//# sourceMappingURL=4.3ce57463.chunk.js.map
